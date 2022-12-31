@@ -1,0 +1,65 @@
+[
+  {
+    "room": 0,
+    "textCom": "I need to have your confirmation to reverse some functions. Please confirm the new order.",
+    "textDesc": "Trying to execute function E, D and C...",
+    "solution": "EDC",
+    "available": true
+  },
+  {
+    "room": 0,
+    "textCom": "Can you confirm the coordinates?",
+    "textDesc": "Route set to quadrant DC, sector A",
+    "solution": "DCA",
+    "available": true
+  },
+  {
+    "room": 0,
+    "textCom": "I will try to reboot some core functions. Which do not work correctly?",
+    "textDesc": "Section A: online \nSection B: ... \nSection C: online \nSection D: ...",
+    "solution": "BD",
+    "available": true
+  },
+  {
+    "room": 1,
+    "textCom": "Can you tell me which shield cores are active?",
+    "textDesc": "Shield cores status: \n A --- \n B online \n C online \n D ---",
+    "solution": "BC",
+    "available": true
+  },
+  {
+    "room": 1,
+    "textCom": "I need to know the currect threat level for each direction.",
+    "textDesc": "Threat level Left: A \nThreat level Front: C \nThreat level Right: B",
+    "solution": "ACB",
+    "available": true
+  },
+  {
+    "room": 1,
+    "textCom": "Can you confirm the coordinates?",
+    "textDesc": "Shield reconfiguration code: DBE",
+    "solution": "DBE",
+    "available": true
+  },
+  {
+    "room": 2,
+    "textCom": "Can you give me the code for overriding the machines?",
+    "textDesc": "Machine override code: \nACBAD",
+    "solution": "ACBAD",
+    "available": true
+  },
+  {
+    "room": 2,
+    "textCom": "Can you tell me our current integrity level?",
+    "textDesc": "Integrity at level E.",
+    "solution": "E",
+    "available": true
+  },
+  {
+    "room": 2,
+    "textCom": "Please tell me the power level of the engines.",
+    "textDesc": "Power level: \n Left: E \n Centre: B \n Right: D",
+    "solution": "EBD",
+    "available": true
+  }
+]
